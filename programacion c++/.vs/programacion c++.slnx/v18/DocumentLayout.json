@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nueva carpeta\\c\u002B\u002B\u002B\\programacion c\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B224B5-8EF4-410C-AD9F-9ACBF282B9FD}|programacion c\u002B\u002B\\programacion c\u002B\u002B.vcxproj|D:\\Nueva carpeta\\c\u002B\u002B\u002B\\programacion c\u002B\u002B\\programacion c\u002B\u002B\\ejercicio 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98B224B5-8EF4-410C-AD9F-9ACBF282B9FD}|programacion c\u002B\u002B\\programacion c\u002B\u002B.vcxproj|solutionrelative:programacion c\u002B\u002B\\ejercicio 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B224B5-8EF4-410C-AD9F-9ACBF282B9FD}|programacion c\u002B\u002B\\programacion c\u002B\u002B.vcxproj|D:\\Nueva carpeta\\c\u002B\u002B\u002B\\programacion c\u002B\u002B\\programacion c\u002B\u002B\\ejercicio3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98B224B5-8EF4-410C-AD9F-9ACBF282B9FD}|programacion c\u002B\u002B\\programacion c\u002B\u002B.vcxproj|solutionrelative:programacion c\u002B\u002B\\ejercicio3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio 4.cpp",
+              "DocumentMoniker": "D:\\Nueva carpeta\\c\u002B\u002B\u002B\\programacion c\u002B\u002B\\programacion c\u002B\u002B\\ejercicio 4.cpp",
+              "RelativeDocumentMoniker": "programacion c\u002B\u002B\\ejercicio 4.cpp",
+              "ToolTip": "D:\\Nueva carpeta\\c\u002B\u002B\u002B\\programacion c\u002B\u002B\\programacion c\u002B\u002B\\ejercicio 4.cpp",
+              "RelativeToolTip": "programacion c\u002B\u002B\\ejercicio 4.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-10T19:48:54.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ejercicio3.cpp",
+              "DocumentMoniker": "D:\\Nueva carpeta\\c\u002B\u002B\u002B\\programacion c\u002B\u002B\\programacion c\u002B\u002B\\ejercicio3.cpp",
+              "RelativeDocumentMoniker": "programacion c\u002B\u002B\\ejercicio3.cpp",
+              "ToolTip": "D:\\Nueva carpeta\\c\u002B\u002B\u002B\\programacion c\u002B\u002B\\programacion c\u002B\u002B\\ejercicio3.cpp",
+              "RelativeToolTip": "programacion c\u002B\u002B\\ejercicio3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-10T19:41:55.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
