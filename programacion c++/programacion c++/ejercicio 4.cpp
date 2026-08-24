@@ -13,7 +13,7 @@ int main() {
 	// Declaro variable nota
 	int nota;
 	// se lee por teclado y se almacena en la variable nota
-	cout << "Ingrese la nota del estudiante (0-100)";
+	cout << "Ingrese la nota desl estudiante (0-100)";
 	cin >> nota;
 	//Validacion de rango
 	if (nota < 0 || nota > 100) {
