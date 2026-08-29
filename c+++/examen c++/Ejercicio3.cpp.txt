@@ -1,0 +1,38 @@
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
+int main3() {
+	float peso = 0;
+	float altura = 0;
+
+	cout << "El peso y altura deben ser mayor a 0 \n ";
+	while (peso <= 0) {
+		cout << "Ingrese el peso \n";
+		cin >> peso;
+		
+	}
+	while (altura <= 0) {
+		cout << "Ingrese la altura \n";
+		cin >> altura;
+	}
+	float IMC;
+	IMC = peso / (altura*altura);
+	if (IMC < 18.5) {
+		cout << "La persona esta con bajo peso\n";
+	}
+
+	else if (IMC >= 18.5 and IMC < 25.0) {
+		cout << "Tiene un peso normal\n";
+	}
+	else if (IMC >= 25.0 and IMC < 30) {
+		cout << "Tiene sobrepeso\n ";
+	}
+	else if (IMC >= 30) {
+		cout << "Tiene Obesidad\n";
+			
+	}
+	cout << "El resultado de IMC es: " << IMC;
+	return 0;
+}

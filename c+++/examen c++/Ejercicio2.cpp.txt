@@ -1,0 +1,36 @@
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
+vector <double>  lista;
+vector <double> listapares;
+int main() {
+	int n;
+	int numero;
+	cout << "Cuantos numeros desea ingresar";
+	cin >> n;
+	do {
+		cout << "Ingrese los numeros que desee: ";
+		cin >> numero;
+		
+		if (numero % 2 == 0) {
+			cout << "El numero es par\n";
+			listapares.push_back(numero);
+		}
+		lista.push_back(numero);
+		n = n - 1;
+	} while (n != 0);
+
+	cout << "Lista de numeros\n";
+	for (size_t i = 0; i < lista.size(); i++) {
+		cout << i << "." << lista[i] << "\n";
+	}
+
+	cout << "Lista de numeros PARES \n";
+	for (size_t i = 0; i < listapares.size(); i++) {
+		cout << i << "." << listapares[i] << "\n";
+	}
+
+	return 0;
+}

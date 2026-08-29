@@ -1,0 +1,22 @@
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
+vector <string>  lista;
+int main1() {
+	int n;
+	string producto;
+	cout << "Cuantos productos desea ingresar";
+	cin >> n;
+	do {
+		cout << "Ingrese el producto que desee: ";
+		cin >> producto;
+		lista.push_back(producto);
+		n = n - 1;
+	} while (n != 0);
+	for (size_t i = 0; i < lista.size(); i++) {
+		cout << i << "." << lista[i] << "\n";
+	}
+	return 0;
+}
